@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head><title>fav food</title>
+    </head>
+<style>
+#titleImage {
+    position: relative;
+    
+    width: 100%;
+    height: 510px;
+}
+#titleName {
+    text-align: center;
+    position: absolute;
+    z-index: 2;
+    top: 200px;
+    left: 500px;
+}
+#favFood1{
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+}
+#foodDescription{
+    color: black;
+    text-align: center;
+}
+#favFoodImage1{
+    border: 2px solid white;
+    padding: 5px;
+    height: 550px;
+    width: 750px;
+  
+}
+#favFood2{
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+}
+#foodDescription2{
+    color: black;
+    text-align: center;
+}
+#favFoodImage2{
+    border: 2px solid white;
+    padding: 5px;
+    height: 450px;
+    width: 750px;
+    
+  
+}
+#favFood3{
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+}
+#foodDescription3{
+    color: black;
+    text-align: center;
+}
+#favFoodImage3{
+    border: 2px solid white;
+    padding: 5px;
+    height: 450px;
+    width: 750px;
+  
+}
+</style>
+<body style="background-color:#F2F3F4;color:white;">
+    <div style="position:releative; border: 2px inset black;">
+        <img id="titleImage" src="https://casasensei.com/wp-content/uploads/2019/07/Asian-Food-1.jpg" >
+        <div id="titleName"><div style = "position:relative;centre:100px; right:50px;">
+<h2> SOME OF MY FAV </h2>
+        <h1>FOODS</h1></div>
+    </div>
+</div>
+    <div style="background-color: #F7DC6F; align-items:center;">
+        <h3 id="favFood1">PIZZA</h3>  
+        <p id="foodDescription">Pizza comes in a very bid variety of tastes depending on ingredients,making,the size 
+            and texture etc.On their own,they taste pretty good.</p>
+        <div style="padding-left: 200px; paddind-top: 10px;"><img id="favFoodImage1" src="https://www.kingarthurbaking.com/sites/default/files/2022-03/Easiest-Pizza_22-2_11.jpg"></div>
+    </div>
+    <div style="background-color:#A3E4D7; align-items:center;">
+        <h3 id="favFood2">FRIED CHICKEN</h3>  
+        <p id="foodDescription2">Each country has its unique seasoning and preferred cut of
+             chicken,but the base flavor is still the same</p>
+        <div style="padding-left: 200px; paddind-top: 10px;"><img id="favFoodImage2" src="https://www.theseasonedmom.com/wp-content/uploads/2022/05/Fried-Chicken-Recipe-Square-2.jpg"></div>
+    </div>
+</div>
+<div style="background-color:#A9CCE3 ; align-items:center;">
+    <h3 id="favFood3">RAMEN</h3>  
+    <p id="foodDescription3">Ramen  is a Japanese noodle dish. It consists of Chinese-style wheat noodles (or 中華麺, chūkamen) served in a broth; common flavors are soy sauce and miso, with typical toppings including sliced pork (chāshū), nori (dried seaweed), menma (bamboo shoots), and scallions.
+    </p>
+    <p id="foodDescription3">overeating.</p>
+    <div style="padding-left: 200px; paddind-top: 10px;"><img id="favFoodImage3" src="https://imgmedia.lbb.in/media/2021/11/619c62ce1134120ab583ce0d_1637638862209.jpg"></div>
+</div>
