@@ -24,6 +24,7 @@ This project presents a sophisticated web-based showcase dedicated to my go-to d
 
 1. **Pizza**
    - **Description**: Pizza epitomizes versatility with an expansive range of flavors dictated by ingredients, preparation, and texture. Whether savoring the crisp thin crust of a Margherita or indulging in the deep-dish richness of a Chicago-style pizza, each bite delivers a symphony of taste sensations. Toppings vary from classic pepperoni to gourmet choices like truffles and arugula, making pizza a universally beloved dish.
+   - (Image/pizza.jpg)
   
 2. **Fried Chicken**
    - **Description**: Fried chicken is a quintessential comfort food with regional variations that reflect diverse culinary traditions. Each locale imparts its distinctive seasoning and preferred cut of chicken, yet the fundamental appeal remains constant. From the spicy zest of Korean fried chicken to the tender, buttermilk-soaked Southern American style, this dish features a crispy exterior and succulent interior, suitable for any occasion.
